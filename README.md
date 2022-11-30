@@ -1,5 +1,4 @@
 # crop-yield-prediction
-Dataset link: 
 
 web link: http://varnanamahesh.pythonanywhere.com/
 
